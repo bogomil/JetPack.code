@@ -9,11 +9,11 @@ const econsole = Iservices.console;
 var JSimpleDebugger = 
 {
 	//define function element
-	write: function (args, callback)
+	write: function (args)
 	{
 		econsole.logStringMessage(args);
 	},
-	dump: function(obj,level,callback)
+	dump: function(obj,level)
 	{
 		//based on http://binnyva.blogspot.com/2005/10/dump-function-javascript-equivalent-of.html
 		var dumped_text = "";
