@@ -18,3 +18,5 @@ ajaxResponder.php
 !--- capital ---!
 ##div#comments
 
+!--- dnes.bg ---!
+##div#comments-frame
