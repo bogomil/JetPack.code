@@ -10,6 +10,7 @@
 ajaxResponder.php
 ##div.comments_rating
 ##li.select
+##div#commentsBlock
 
 !--- news.bg and co ---!
 ##div.comments-listing
