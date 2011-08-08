@@ -9,6 +9,7 @@
 !--- vesti.bg,sportni.bg ---!
 ajaxResponder.php
 ##div.comments_rating
+##li.select
 
 !--- news.bg and co ---!
 ##div.comments-listing
