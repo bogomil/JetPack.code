@@ -11,6 +11,7 @@ ajaxResponder.php
 ##div.comments_rating
 ##li.select
 ##div#commentsBlock
+##div.comments_sawn
 
 !--- news.bg and co ---!
 ##div.comments-listing
