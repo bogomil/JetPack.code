@@ -8,15 +8,21 @@
 
 !--- vesti.bg,sportni.bg ---!
 ajaxResponder.php
+##div.comments_rating
 
 !--- news.bg and co ---!
 ##div.comments-listing
 
 !--- dnevnik ---!
 ##div.comments
+##div.strycomments
+
 
 !--- capital ---!
 ##div#comments
+##span.comments
+
 
 !--- dnes.bg ---!
 ##div#comments-frame
+##a.com
