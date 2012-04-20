@@ -18,7 +18,7 @@ ajaxResponder.php
 !--- news.bg and co ---!
 ##div.comments-listing
 ##div.comments-header
-##div.material-meta.a
+##A[href="#clist"]
 
 !--- dnevnik ---!
 ##div.comments
